@@ -1,0 +1,22 @@
+---
+title: "Mitesh Kumar"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/mitesh-kumar0707
+    - icon: github
+      text: Github
+      href: https://github.com/yourusername
+---
+
+MSc Data Science student in Germany specializing in predictive modeling and natural language processing. 
+
+## Featured Projects
+* [Predicting European Housing Prices](projects/housing.ipynb)
+* [Customer Churn Analysis](projects/churn.qmd)
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
