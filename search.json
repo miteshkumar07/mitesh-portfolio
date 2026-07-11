@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mitesh Kumar",
+    "section": "",
+    "text": "MSc Data Science student in Germany specializing in predictive modeling and natural language processing."
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Mitesh Kumar",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nPredicting European Housing Prices\nCustomer Churn Analysis This is a Quarto website.\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
