@@ -1,5 +1,9 @@
 project:
   type: website
+  resources:
+    - custom.js
+    - styles.css
+    - ".nojekyll"
 
 website:
   title: "Mitesh Kumar"
@@ -10,6 +14,11 @@ website:
         text: Home
       - href: about.qmd
         text: Education & Achievements
+    right:
+      - icon: github
+        href: "https://github.com/miteshkumar07"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/mitesh-kumar0707/"
 
 format:
   html:
@@ -17,3 +26,4 @@ format:
     css: styles.css
     page-layout: custom
     toc: false
+    include-in-header: analytics.html
