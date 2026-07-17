@@ -1,5 +1,81 @@
 ---
-title: "About"
+title: "Education & Achievements"
 ---
 
-About this site
+```{=html}
+<!-- Interactive Canvas Background -->
+<canvas id="neural-canvas"></canvas>
+
+<main style="padding-top: 8rem; min-height: 100vh;">
+  
+  <section class="section container reveal">
+    <div class="section-header">
+      <h2 class="section-title">Academic Journey</h2>
+    </div>
+    
+    <div class="bento-grid">
+      
+      <div class="bento-item span-4 row-2" style="background: linear-gradient(135deg, rgba(20,20,25,0.8), rgba(40,20,50,0.5)); border-color: rgba(168, 85, 247, 0.3);">
+        <div class="bento-header">
+          <span class="bento-date">Feb 2026 – Present</span>
+        </div>
+        <h3 class="bento-title" style="font-size: 2.5rem; margin-bottom: 0.5rem;">Master of Science, Data Science</h3>
+        <h4 style="font-size: 1.2rem; color: var(--accent-light); margin-top:0;">Universidad Politécnica de Madrid (Erasmus Semester)</h4>
+        <div class="bento-text" style="font-size: 1.1rem; max-width: 800px;">
+          <p>Continuing advanced studies in Data Science with a focus on cross-cultural academic exchange and cutting-edge methodologies in Madrid, Spain.</p>
+        </div>
+      </div>
+
+      <div class="bento-item span-2">
+        <div class="bento-header">
+          <span class="bento-date">Oct 2024 – Present</span>
+        </div>
+        <h3 class="bento-title" style="font-size: 1.6rem;">Master of Science, Data Science</h3>
+        <h4 style="color: #8892b0; margin-top:0;">FAU Erlangen-Nürnberg</h4>
+        <div class="bento-text">
+          <p><strong>Grade: 2.0</strong><br>Specializing in Machine Learning, Mathematical Optimization, and Computer Vision.</p>
+        </div>
+      </div>
+
+      <div class="bento-item span-2">
+        <div class="bento-header">
+          <span class="bento-date">Jul 2020 – Jun 2023</span>
+        </div>
+        <h3 class="bento-title" style="font-size: 1.6rem;">Bachelor of Science, Mathematics</h3>
+        <h4 style="color: #8892b0; margin-top:0;">Amity University, India</h4>
+        <div class="bento-text">
+          <p><strong>Grade: 1.8</strong><br>Awarded Bronze Medal for outstanding academic performance.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section container reveal" style="padding-bottom: 8rem;">
+    <div class="section-header">
+      <h2 class="section-title">Achievements</h2>
+    </div>
+    
+    <div class="bento-grid">
+      <div class="bento-item span-2">
+        <div style="font-size: 3rem; margin-bottom: 1rem;">🏆</div>
+        <h3 class="bento-title">Academic Excellence</h3>
+        <div class="bento-text">
+          <p>Awarded a Bronze Medal for outstanding academic performance during Bachelor of Science (Mathematics) at Amity University.</p>
+        </div>
+      </div>
+      
+      <div class="bento-item span-2">
+        <div style="font-size: 3rem; margin-bottom: 1rem;">📝</div>
+        <h3 class="bento-title">Research Presentation</h3>
+        <div class="bento-text">
+          <p>Delivered a presentation on "Modelling Intuitionistic Fuzzy Sets in Real Life Using a Multi-Criterion Decision-Making Approach" at a National Conference.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<script src="custom.js"></script>
+```
